@@ -35,7 +35,6 @@ He sido contratado para realizar un **análisis basado en los datos de las tiend
 
 - **Entorno de desarrollo**:  
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab Badge" />
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/w2k31984/Challenge1_Alura_Store_DS/HEAD)
 
 - **Lenguaje de programación**: Python
 
